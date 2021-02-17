@@ -15,10 +15,10 @@ module.exports = {
     /* Example: Bundle your final build: */
     // "bundle": true,
   },
-  packageOptions: {
-    /* ... */
-    source: "remote",
-  },
+  // packageOptions: {
+  //   /* ... */
+  //   source: "remote",
+  // },
   // snowpack.config.js
   // routes: [{ match: "routes", src: ".*", dest: "/index.html" }],
   devOptions: {
